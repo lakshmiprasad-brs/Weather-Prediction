@@ -161,6 +161,7 @@ header p {
     font: 600 12px/15px Poppins;
     letter-spacing: 0.24px;
     color: #191919;
+    padding-top: 2px;
 }
 
 .ReactTitle {
